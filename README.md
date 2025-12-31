@@ -2,8 +2,6 @@
 
 Welcome to the **RealEstate Chatbot** project! This repository contains an AI-powered conversational agent designed specifically for real estate applications. The chatbot can handle property inquiries, assist with property searches, provide information about listings, and significantly enhance user experience for property buyers, agents, and sellers.
 
-
-
 ---
 
 ## 🚀 Features
