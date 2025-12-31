@@ -1,0 +1,1058 @@
+[
+  {
+    "type": "Apartment",
+    "title": "Modern Lekki Apartment with Pool Access",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 2500000,
+    "currency": "NGN",
+    "description": "3-bedroom luxury apartment in Lekki Phase 1 with 24/7 security, swimming pool, gym access, and smart home features. Fully furnished with premium appliances.",
+    "location": "Lekki Phase 1, Lagos, Lagos State",
+    "features": [
+      "Pool",
+      "Gym",
+      "Smart Home",
+      "24/7 Security",
+      "Parking"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 120,
+    "available_from": "2026-01-15"
+  },
+  {
+    "type": "Room",
+    "title": "Serviced Room near UNILAG",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 120000,
+    "currency": "NGN",
+    "description": "Cozy single room with private bathroom in secure hostel compound. Includes weekly cleaning, WiFi, and shared kitchen facilities. 5-minute walk to University of Lagos.",
+    "location": "University Road, Lagos, Lagos State",
+    "features": [
+      "WiFi",
+      "Cleaning Service",
+      "Security",
+      "Shared Kitchen"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 18,
+    "available_from": "2025-12-20"
+  },
+  {
+    "type": "House",
+    "title": "Waterfront Family House in GRA",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 4500000,
+    "currency": "NGN",
+    "description": "Spacious 4-bedroom detached house in Port Harcourt GRA with private garden, 3-car garage, backup generator, and waterfront view. Recently renovated with modern finishes.",
+    "location": "Azikiwe Road, Port Harcourt, Rivers State",
+    "features": [
+      "Waterfront",
+      "Generator",
+      "Garden",
+      "Garage",
+      "Renovated"
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 280,
+    "available_from": "2026-02-01"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Traditional Ibadan Bungalow",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1800000,
+    "currency": "NGN",
+    "description": "Charming 2-bedroom bungalow with tropical garden and veranda. Features traditional Nigerian architecture with modern amenities. Located in quiet residential area near UI.",
+    "location": "Ojoo Road, Ibadan, Oyo State",
+    "features": [
+      "Garden",
+      "Veranda",
+      "Traditional Design",
+      "Quiet Area"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 150,
+    "available_from": "2025-12-30"
+  },
+  {
+    "type": "Mansion",
+    "title": "Victoria Island Waterfront Estate",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 35000000,
+    "currency": "NGN",
+    "description": "Luxurious 7-bedroom mansion with private beach access, helipad, infinity pool, home theater, and staff quarters. Smart home system throughout. 24/7 armed security.",
+    "location": "Bourdillon Road, Lagos, Lagos State",
+    "features": [
+      "Private Beach",
+      "Helipad",
+      "Infinity Pool",
+      "Home Theater",
+      "Smart Home"
+    ],
+    "bedrooms": 7,
+    "bathrooms": 8,
+    "area_sqm": 1200,
+    "available_from": "2026-03-10"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Creative Studio in Central Business District",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 950000,
+    "currency": "NGN",
+    "description": "Modern 60sqm studio space with natural lighting, high ceilings, and industrial finishes. Perfect for artists, photographers, or small startups. Includes shared coworking lounge.",
+    "location": "Constitution Avenue, Abuja, FCT",
+    "features": [
+      "High Ceilings",
+      "Natural Light",
+      "Industrial Design",
+      "Shared Lounge"
+    ],
+    "area_sqm": 60,
+    "available_from": "2026-01-05"
+  },
+  {
+    "type": "Shop",
+    "title": "High-Traffic Retail Space in Kano City",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3000000,
+    "currency": "NGN",
+    "description": "Prime retail shop (80sqm) in bustling Kano market area. Features large display windows, storage room, and customer restrooms. Existing AC and security systems installed.",
+    "location": "Bayero Road, Kano, Kano State",
+    "features": [
+      "High Foot Traffic",
+      "Storage Room",
+      "AC",
+      "Security System"
+    ],
+    "area_sqm": 80,
+    "available_from": "2025-12-25"
+  },
+  {
+    "type": "Flat",
+    "title": "City-View Flat in Independence Layout",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 850000,
+    "currency": "NGN",
+    "description": "Newly renovated 1-bedroom flat with panoramic city views. Features modern kitchen, walk-in closet, and balcony. Secure building with elevator access.",
+    "location": "Ogui Road, Enugu, Enugu State",
+    "features": [
+      "City View",
+      "Balcony",
+      "Elevator",
+      "Walk-in Closet"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 65,
+    "available_from": "2026-01-10"
+  },
+  {
+    "type": "Store",
+    "title": "Warehousing Complex in Ikeja",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 5500000,
+    "currency": "NGN",
+    "description": "Industrial-grade storage facility (300sqm) with loading docks, 24/7 security, and climate control options. Zoned for commercial use with easy access to Lagos-Ibadan Expressway.",
+    "location": "Allen Avenue, Ikeja, Lagos State",
+    "features": [
+      "Loading Docks",
+      "Climate Control",
+      "24/7 Security",
+      "Commercial Zone"
+    ],
+    "area_sqm": 300,
+    "available_from": "2025-12-18"
+  },
+  {
+    "type": "House",
+    "title": "Colonial-Style House in Calabar",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3200000,
+    "currency": "NGN",
+    "description": "Historic 3-bedroom house with colonial architecture featuring wide verandas and tropical gardens. Fully renovated interiors with modern kitchen and bathrooms.",
+    "location": "Ephraim Mogaji Street, Calabar, Cross River State",
+    "features": [
+      "Historic Building",
+      "Verandas",
+      "Tropical Garden",
+      "Renovated"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 200,
+    "available_from": "2026-02-15"
+  },
+  {
+    "type": "Apartment",
+    "title": "Diplomatic Zone Luxury Apartment",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 4200000,
+    "currency": "NGN",
+    "description": "Executive 2-bedroom apartment in Abuja's Diplomatic Zone with marble floors, designer kitchen, and panoramic views. Building amenities include concierge, spa, and conference rooms.",
+    "location": "Shehu Shagari Way, Abuja, FCT",
+    "features": [
+      "Concierge",
+      "Spa",
+      "Conference Room",
+      "Marble Floors",
+      "Panoramic View"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 140,
+    "available_from": "2026-01-20"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Artisan Workshop in Benin City",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 350000,
+    "currency": "NGN",
+    "description": "Creative studio space (45sqm) designed for artisans and craftspeople. Features large workbenches, utility sinks, and ample natural light. Located in cultural quarter near Oba Market.",
+    "location": "Sakponba Road, Benin City, Edo State",
+    "features": [
+      "Workbenches",
+      "Utility Sinks",
+      "Natural Light",
+      "Cultural District"
+    ],
+    "area_sqm": 45,
+    "available_from": "2025-12-28"
+  },
+  {
+    "type": "Room",
+    "title": "Executive Room in Surulere",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 220000,
+    "currency": "NGN",
+    "description": "Premium single room with ensuite bathroom in executive guesthouse. Includes daily breakfast, dedicated workspace, and high-speed WiFi. Walking distance to National Theatre.",
+    "location": "Adeniran Ogunsanya Street, Lagos, Lagos State",
+    "features": [
+      "Breakfast Included",
+      "Workspace",
+      "Ensuite Bathroom",
+      "High-Speed WiFi"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 25,
+    "available_from": "2026-01-05"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Riverside Bungalow in Eleme",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1500000,
+    "currency": "NGN",
+    "description": "Peaceful 2-bedroom bungalow on elevated plot with river views. Features open-plan living area, covered patio, and fruit garden. Generator and borehole installed.",
+    "location": "Rumuepirikom Road, Port Harcourt, Rivers State",
+    "features": [
+      "River View",
+      "Patio",
+      "Fruit Garden",
+      "Generator",
+      "Borehole"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqm": 110,
+    "available_from": "2025-12-31"
+  },
+  {
+    "type": "Shop",
+    "title": "Fashion Boutique Space in Ilorin",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 750000,
+    "currency": "NGN",
+    "description": "Stylish retail space (60sqm) in Ilorin's commercial district. Features custom lighting, changing rooms, and storage area. High foot traffic location near Unity Fountain.",
+    "location": "Ahmadu Bello Way, Ilorin, Kwara State",
+    "features": [
+      "Custom Lighting",
+      "Changing Rooms",
+      "High Foot Traffic",
+      "Storage Area"
+    ],
+    "area_sqm": 60,
+    "available_from": "2026-01-12"
+  },
+  {
+    "type": "Mansion",
+    "title": "Asokoro Hilltop Estate",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 42000000,
+    "currency": "NGN",
+    "description": "8-bedroom penthouse mansion with 360° city views, Olympic-sized pool, private cinema, and wine cellar. Features bulletproof windows and panic rooms. Full-time security detail.",
+    "location": "Diplomatic Drive, Asokoro, Abuja, FCT",
+    "features": [
+      "Penthouse",
+      "Olympic Pool",
+      "Private Cinema",
+      "Wine Cellar",
+      "Bulletproof Windows"
+    ],
+    "bedrooms": 8,
+    "bathrooms": 10,
+    "area_sqm": 1500,
+    "available_from": "2026-04-01"
+  },
+  {
+    "type": "Flat",
+    "title": "Compact Studio Flat in Yaba",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 450000,
+    "currency": "NGN",
+    "description": "Efficient 1-room flat perfect for students and young professionals. Includes kitchenette, Murphy bed, and study nook. Walking distance to Yaba Tech and shopping centers.",
+    "location": "Herbert Macaulay Way, Yaba, Lagos, Lagos State",
+    "features": [
+      "Kitchenette",
+      "Murphy Bed",
+      "Study Nook",
+      "Walking Distance to Campus"
+    ],
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqm": 35,
+    "available_from": "2025-12-15"
+  },
+  {
+    "type": "Store",
+    "title": "Pharmaceutical Warehouse in Oshodi",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 6200000,
+    "currency": "NGN",
+    "description": "Temperature-controlled warehouse (400sqm) with loading bays and security systems. Certified for pharmaceutical storage with backup power and humidity control.",
+    "location": "Apapa-Oshodi Expressway, Oshodi, Lagos, Lagos State",
+    "features": [
+      "Temperature Control",
+      "Loading Bays",
+      "Pharma Certified",
+      "Backup Power"
+    ],
+    "area_sqm": 400,
+    "available_from": "2026-01-25"
+  },
+  {
+    "type": "Room",
+    "title": "Female-Only Hostel Room in Abuja",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 95000,
+    "currency": "NGN",
+    "description": "Secure single room in women's hostel near Wuse Market. Shared kitchen and lounge. Biometric access control and 24/7 warden supervision. Utilities included.",
+    "location": "Aminu Kano Crescent, Wuse II, Abuja, FCT",
+    "features": [
+      "Female Only",
+      "Biometric Security",
+      "Warden Supervision",
+      "Utilities Included"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 15,
+    "available_from": "2026-01-01"
+  },
+  {
+    "type": "House",
+    "title": "Gated Compound House in Uyo",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 2800000,
+    "currency": "NGN",
+    "description": "3-bedroom family house in secure gated community with playground and basketball court. Features high ceilings, modern kitchen, and servant quarters. 10-minute drive to city center.",
+    "location": "Aka Road, Uyo, Akwa Ibom State",
+    "features": [
+      "Gated Community",
+      "Playground",
+      "Basketball Court",
+      "Servant Quarters"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 180,
+    "available_from": "2025-12-22"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Beachfront Bungalow in Badagry",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3200000,
+    "currency": "NGN",
+    "description": "Traditional 2-bedroom beach bungalow with thatched roof and ocean views. Features outdoor kitchen, hammock area, and direct beach access. Solar power and rainwater harvesting systems.",
+    "location": "Vele Beach Road, Badagry, Lagos State",
+    "features": [
+      "Beach Access",
+      "Thatched Roof",
+      "Solar Power",
+      "Rainwater Harvesting"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqm": 95,
+    "available_from": "2026-02-28"
+  },
+  {
+    "type": "Apartment",
+    "title": "Smart Apartment in Banana Island",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 8500000,
+    "currency": "NGN",
+    "description": "4-bedroom smart apartment with automated lighting, climate control, and security systems. Floor-to-ceiling windows with lagoon views. Includes private elevator and valet parking.",
+    "location": "Boulevard, Banana Island, Lagos, Lagos State",
+    "features": [
+      "Smart Home",
+      "Lagoon View",
+      "Private Elevator",
+      "Valet Parking"
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 220,
+    "available_from": "2026-03-15"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Film Production Studio in Lekki",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1250000,
+    "currency": "NGN",
+    "description": "Professional 120sqm film studio with cyclorama walls, lighting grid, and soundproofing. Includes green room and editing suite. 24-hour access with security monitoring.",
+    "location": "Lekki-Epe Expressway, Lekki, Lagos, Lagos State",
+    "features": [
+      "Cyclorama Walls",
+      "Lighting Grid",
+      "Soundproof",
+      "Editing Suite"
+    ],
+    "area_sqm": 120,
+    "available_from": "2026-01-10"
+  },
+  {
+    "type": "Mansion",
+    "title": "Royal Palace-Style Mansion in Ibadan",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 28000000,
+    "currency": "NGN",
+    "description": "10-bedroom mansion inspired by Yoruba royal architecture. Features ancestral art gallery, ceremonial courtyard, and sacred grove. Includes guest wing with 4 bedrooms and staff quarters.",
+    "location": "Iwo Road, Ibadan, Oyo State",
+    "features": [
+      "Royal Architecture",
+      "Art Gallery",
+      "Ceremonial Courtyard",
+      "Sacred Grove"
+    ],
+    "bedrooms": 10,
+    "bathrooms": 12,
+    "area_sqm": 1800,
+    "available_from": "2026-05-01"
+  },
+  {
+    "type": "Shop",
+    "title": "Mall Kiosk in Abuja City Mall",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1200000,
+    "currency": "NGN",
+    "description": "Prime 15sqm retail kiosk in Abuja's busiest mall. High visibility location near food court. Features custom display cases and 24-hour AC. Mall management handles security.",
+    "location": "Abuja City Mall, Gwarinpa, Abuja, FCT",
+    "features": [
+      "Mall Location",
+      "Food Court Proximity",
+      "Custom Displays",
+      "24hr AC"
+    ],
+    "area_sqm": 15,
+    "available_from": "2026-01-05"
+  },
+  {
+    "type": "Flat",
+    "title": "Riverside Flat in Port Harcourt",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 650000,
+    "currency": "NGN",
+    "description": "1-bedroom flat overlooking New Calabar River. Features balcony with river views, modern bathroom, and compact kitchen. Secure building with backup generator.",
+    "location": "Peter Odili Road, Port Harcourt, Rivers State",
+    "features": [
+      "River View",
+      "Balcony",
+      "Backup Generator",
+      "Modern Bathroom"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 55,
+    "available_from": "2025-12-27"
+  },
+  {
+    "type": "Store",
+    "title": "Cold Room Complex in Ota",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 7800000,
+    "currency": "NGN",
+    "description": "Industrial cold storage facility (500sqm) with -25°C to +15°C temperature zones. Features blast freezers, loading docks, and generator backup. Near Lagos-Abeokuta Expressway.",
+    "location": "Sango-Ota Industrial Estate, Ota, Ogun State",
+    "features": [
+      "Cold Storage",
+      "Blast Freezers",
+      "Temperature Zones",
+      "Generator Backup"
+    ],
+    "area_sqm": 500,
+    "available_from": "2026-02-10"
+  },
+  {
+    "type": "Room",
+    "title": "University Dorm Room in Nsukka",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 45000,
+    "currency": "NGN",
+    "description": "Basic single room in UNN dormitory. Shared bathroom facilities on each floor. Includes bed frame, desk, and wardrobe. Campus security patrols 24/7.",
+    "location": "University of Nigeria Campus, Nsukka, Enugu State",
+    "features": [
+      "Campus Housing",
+      "Shared Bathroom",
+      "Basic Furnishings",
+      "Campus Security"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "area_sqm": 12,
+    "available_from": "2026-01-15"
+  },
+  {
+    "type": "House",
+    "title": "Heritage House in Zaria",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1950000,
+    "currency": "NGN",
+    "description": "Historic 2-bedroom Hausa-style house with mud architecture and ornate wood carvings. Features central courtyard, traditional fireplace, and date palm garden. Recently restored.",
+    "location": "Tudun Wada, Zaria, Kaduna State",
+    "features": [
+      "Heritage Building",
+      "Mud Architecture",
+      "Central Courtyard",
+      "Date Palm Garden"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqm": 130,
+    "available_from": "2026-03-01"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Eco-Bungalow in Abeokuta",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1650000,
+    "currency": "NGN",
+    "description": "Sustainable 2-bedroom bungalow built with compressed earth blocks. Features rainwater harvesting, solar panels, and organic vegetable garden. Near Olumo Rock tourist site.",
+    "location": "Ibara Housing Estate, Abeokuta, Ogun State",
+    "features": [
+      "Eco-Build",
+      "Solar Power",
+      "Rainwater Harvesting",
+      "Organic Garden"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqm": 100,
+    "available_from": "2025-12-20"
+  },
+  {
+    "type": "Apartment",
+    "title": "Serviced Apartment in Victoria Island",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3800000,
+    "currency": "NGN",
+    "description": "2-bedroom serviced apartment with daily housekeeping, concierge, and breakfast. Full kitchen with chef services available. Walking distance to beaches and embassies.",
+    "location": "Adeola Odeku Street, Victoria Island, Lagos, Lagos State",
+    "features": [
+      "Housekeeping",
+      "Concierge",
+      "Breakfast Included",
+      "Chef Services"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 110,
+    "available_from": "2026-01-15"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Music Recording Studio in Ikeja",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 850000,
+    "currency": "NGN",
+    "description": "Soundproofed 50sqm recording studio with vocal booth, mixing desk, and lounge area. Professionally treated acoustics. Ideal for musicians, podcasters, and voice artists.",
+    "location": "Isolo Road, Ikeja, Lagos, Lagos State",
+    "features": [
+      "Soundproof",
+      "Vocal Booth",
+      "Mixing Desk",
+      "Acoustic Treatment"
+    ],
+    "area_sqm": 50,
+    "available_from": "2026-02-01"
+  },
+  {
+    "type": "Mansion",
+    "title": "Lekki Peninsula Waterfront Villa",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 48500000,
+    "currency": "NGN",
+    "description": "12-bedroom Mediterranean-style villa with private marina, helipad, and infinity pool overlooking Atlantic Ocean. Features indoor swimming pool, spa, and panic rooms.",
+    "location": "Lekki Peninsula, Lekki, Lagos, Lagos State",
+    "features": [
+      "Private Marina",
+      "Helipad",
+      "Ocean View",
+      "Indoor Pool",
+      "Panic Rooms"
+    ],
+    "bedrooms": 12,
+    "bathrooms": 15,
+    "area_sqm": 2500,
+    "available_from": "2026-06-01"
+  },
+  {
+    "type": "Shop",
+    "title": "Supermarket Space in Festac",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 4200000,
+    "currency": "NGN",
+    "description": "Ready-to-operate 200sqm supermarket space with cold rooms, checkout counters, and storage areas. High visibility location with ample parking. Existing electrical and plumbing systems.",
+    "location": "Township Road, Festac, Lagos, Lagos State",
+    "features": [
+      "Ready for Operation",
+      "Cold Rooms",
+      "Checkout Counters",
+      "Ample Parking"
+    ],
+    "area_sqm": 200,
+    "available_from": "2025-12-23"
+  },
+  {
+    "type": "Flat",
+    "title": "Budget Flat in Agege",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 280000,
+    "currency": "NGN",
+    "description": "Basic 1-bedroom flat in low-rise building. Shared toilet facilities on landing. Concrete floor and basic electrical wiring. Near railway station and markets.",
+    "location": "Iyana Ipaja Road, Agege, Lagos, Lagos State",
+    "features": [
+      "Budget Accommodation",
+      "Railway Access",
+      "Market Proximity",
+      "Basic Utilities"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "area_sqm": 30,
+    "available_from": "2025-12-10"
+  },
+  {
+    "type": "Store",
+    "title": "Textile Warehouse in Kano",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 5200000,
+    "currency": "NGN",
+    "description": "350sqm textile storage facility with reinforced flooring and humidity control. Features multiple loading bays and security perimeter. Near Kurmi Market textile hub.",
+    "location": "Kurmi Market Road, Kano, Kano State",
+    "features": [
+      "Reinforced Flooring",
+      "Humidity Control",
+      "Loading Bays",
+      "Textile Zone"
+    ],
+    "area_sqm": 350,
+    "available_from": "2026-01-30"
+  },
+  {
+    "type": "Room",
+    "title": "Hostel Room for Medical Students",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 180000,
+    "currency": "NGN",
+    "description": "Single room near Lagos University Teaching Hospital. Shared kitchen and bathrooms. Includes study desk and wardrobe. 24-hour security and backup generator.",
+    "location": "Idi-Araba, Surulere, Lagos, Lagos State",
+    "features": [
+      "Hospital Proximity",
+      "Study Desk",
+      "Backup Generator",
+      "24hr Security"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 16,
+    "available_from": "2026-01-10"
+  },
+  {
+    "type": "House",
+    "title": "Modern Farmhouse in Abuja",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 7500000,
+    "currency": "NGN",
+    "description": "4-bedroom farmhouse on 2-acre plot with organic garden, chicken coop, and fish pond. Features solar power, borehole water system, and traditional mud architecture with modern interiors.",
+    "location": "Jabi Lake Area, Abuja, FCT",
+    "features": [
+      "Organic Farm",
+      "Solar Power",
+      "Borehole",
+      "Mud Architecture",
+      "Livestock Area"
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 220,
+    "available_from": "2026-04-15"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Mountain View Bungalow in Jos",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 2100000,
+    "currency": "NGN",
+    "description": "3-bedroom bungalow with panoramic views of Jos Plateau. Features stone fireplace, wrap-around veranda, and fruit orchard. Includes generator and water storage tanks.",
+    "location": "Rayfield Road, Jos, Plateau State",
+    "features": [
+      "Mountain View",
+      "Stone Fireplace",
+      "Veranda",
+      "Fruit Orchard"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 160,
+    "available_from": "2026-02-20"
+  },
+  {
+    "type": "Apartment",
+    "title": "Rooftop Penthouse in Ikoyi",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 9200000,
+    "currency": "NGN",
+    "description": "3-bedroom penthouse with private rooftop terrace featuring Jacuzzi and outdoor kitchen. Panoramic views of Lagos Lagoon. Includes personal elevator and wine cellar.",
+    "location": "Bourdillon Road, Ikoyi, Lagos, Lagos State",
+    "features": [
+      "Rooftop Terrace",
+      "Jacuzzi",
+      "Outdoor Kitchen",
+      "Personal Elevator"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 250,
+    "available_from": "2026-03-25"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Dance Studio in Calabar",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 420000,
+    "currency": "NGN",
+    "description": "80sqm sprung-floor dance studio with mirrors, ballet barres, and sound system. High ceilings and natural light. Separate changing rooms and lounge area.",
+    "location": "Mbiabo Road, Calabar, Cross River State",
+    "features": [
+      "Sprung Floor",
+      "Mirrors",
+      "Ballet Barres",
+      "Sound System"
+    ],
+    "area_sqm": 80,
+    "available_from": "2026-01-20"
+  },
+  {
+    "type": "Mansion",
+    "title": "Crown Estate in Enugu",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 32500000,
+    "currency": "NGN",
+    "description": "9-bedroom mansion modeled after British colonial architecture. Features ballroom, library, tennis court, and formal gardens. Includes staff quarters and security command center.",
+    "location": "Ogui Nike Road, Enugu, Enugu State",
+    "features": [
+      "Ballroom",
+      "Library",
+      "Tennis Court",
+      "Formal Gardens",
+      "Security Command"
+    ],
+    "bedrooms": 9,
+    "bathrooms": 11,
+    "area_sqm": 1600,
+    "available_from": "2026-05-15"
+  },
+  {
+    "type": "Shop",
+    "title": "Kiosk Space in Oshodi Market",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 380000,
+    "currency": "NGN",
+    "description": "10sqm locked kiosk in busy Oshodi Market. Steel construction with security shutters. High foot traffic location near transport terminal. Utilities not included.",
+    "location": "Oshodi Market, Lagos, Lagos State",
+    "features": [
+      "Market Location",
+      "Security Shutters",
+      "High Foot Traffic",
+      "Transport Access"
+    ],
+    "area_sqm": 10,
+    "available_from": "2025-12-15"
+  },
+  {
+    "type": "Store",
+    "title": "Automobile Parts Warehouse",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 4800000,
+    "currency": "NGN",
+    "description": "400sqm warehouse with reinforced concrete floor for heavy equipment. Features high-bay lighting, office partitions, and delivery bay. Near Third Mainland Bridge access road.",
+    "location": "Apapa Road, Lagos, Lagos State",
+    "features": [
+      "Heavy-Duty Floor",
+      "High-Bay Lighting",
+      "Office Partition",
+      "Delivery Bay"
+    ],
+    "area_sqm": 400,
+    "available_from": "2026-02-05"
+  },
+  {
+    "type": "Room",
+    "title": "Executive Shortlet in Wuse",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 350000,
+    "currency": "NGN",
+    "description": "Fully furnished short-term room with ensuite bathroom. Includes weekly cleaning, WiFi, and access to shared kitchen/lounge. 10-minute drive to NASS complex.",
+    "location": "Yakubu Gowon Way, Wuse II, Abuja, FCT",
+    "features": [
+      "Shortlet",
+      "Cleaning Service",
+      "WiFi",
+      "Shared Kitchen"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 22,
+    "available_from": "2025-12-28"
+  },
+  {
+    "type": "House",
+    "title": "Waterfront Villa in Rivers State",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 5800000,
+    "currency": "NGN",
+    "description": "5-bedroom modern villa on waterfront plot with private jetty. Features infinity pool, outdoor bar, and guest cottage. Solar power with battery backup system.",
+    "location": "Elelenwo, Port Harcourt, Rivers State",
+    "features": [
+      "Waterfront",
+      "Private Jetty",
+      "Infinity Pool",
+      "Guest Cottage",
+      "Solar Power"
+    ],
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqm": 320,
+    "available_from": "2026-04-10"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Colonial Bungalow in Kaduna",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 2400000,
+    "currency": "NGN",
+    "description": "3-bedroom British-era bungalow with high ceilings and wooden floors. Features wrap-around veranda, mature gardens, and original fireplaces. Located in old GRA district.",
+    "location": "Yakubu Gowan Way, Kaduna, Kaduna State",
+    "features": [
+      "Colonial Architecture",
+      "Wooden Floors",
+      "Veranda",
+      "Mature Gardens"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 190,
+    "available_from": "2026-03-01"
+  },
+  {
+    "type": "Flat",
+    "title": "Executive Flat in Gwarinpa",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 1850000,
+    "currency": "NGN",
+    "description": "2-bedroom flat with premium finishes in secure complex. Features granite countertops, walk-in closets, and balcony overlooking gardens. Includes gym and children's play area.",
+    "location": "Gwarinpa Estate, Abuja, FCT",
+    "features": [
+      "Granite Countertops",
+      "Walk-in Closets",
+      "Gym Access",
+      "Children's Play Area"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 95,
+    "available_from": "2026-01-25"
+  },
+  {
+    "type": "Shop",
+    "title": "Restaurant Space in Lekki Phase 1",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 5500000,
+    "currency": "NGN",
+    "description": "150sqm restaurant space with commercial kitchen, bar area, and outdoor seating. Existing hood systems and grease traps installed. High visibility corner location.",
+    "location": "Admiralty Way, Lekki Phase 1, Lagos, Lagos State",
+    "features": [
+      "Commercial Kitchen",
+      "Bar Area",
+      "Outdoor Seating",
+      "Hood Systems"
+    ],
+    "area_sqm": 150,
+    "available_from": "2026-02-15"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Co-Working Studio in Victoria Island",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 650000,
+    "currency": "NGN",
+    "description": "Flexible 40sqm co-working studio with glass partitions and conference facilities. High-speed fiber internet and printing services included. 24-hour access with biometric entry.",
+    "location": "Ozumba Mbadiwe Avenue, Victoria Island, Lagos, Lagos State",
+    "features": [
+      "Glass Partitions",
+      "Conference Facilities",
+      "Fiber Internet",
+      "Printing Services"
+    ],
+    "area_sqm": 40,
+    "available_from": "2025-12-30"
+  },
+  {
+    "type": "Mansion",
+    "title": "Royal Compound in Oyo Town",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 29800000,
+    "currency": "NGN",
+    "description": "Traditional 8-bedroom royal compound with ceremonial halls and ancestral shrine. Features hand-carved doors, thatched pavilions, and sacred forest area. Includes staff quarters for 10.",
+    "location": "Atiba Road, Oyo Town, Oyo State",
+    "features": [
+      "Royal Compound",
+      "Ceremonial Halls",
+      "Ancestral Shrine",
+      "Sacred Forest"
+    ],
+    "bedrooms": 8,
+    "bathrooms": 10,
+    "area_sqm": 1400,
+    "available_from": "2026-07-01"
+  },
+  {
+    "type": "Store",
+    "title": "Electronics Warehouse in Computer Village",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3950000,
+    "currency": "NGN",
+    "description": "250sqm climate-controlled warehouse for electronics storage. Features ESD-safe flooring, humidity control, and security cameras. Located in Ikeja Computer Village complex.",
+    "location": "Otigba Street, Ikeja, Lagos, Lagos State",
+    "features": [
+      "Climate Controlled",
+      "ESD-Safe Flooring",
+      "Humidity Control",
+      "Security Cameras"
+    ],
+    "area_sqm": 250,
+    "available_from": "2026-01-15"
+  },
+  {
+    "type": "Room",
+    "title": "Shared Room in University Hostel",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 65000,
+    "currency": "NGN",
+    "description": "Double-occupancy room in university hostel. Shared bathroom facilities. Basic bed frames and study desks provided. Access to common kitchen and laundry area.",
+    "location": "Ahmadu Bello University Campus, Zaria, Kaduna State",
+    "features": [
+      "Shared Accommodation",
+      "Campus Location",
+      "Basic Furnishings",
+      "Common Facilities"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "area_sqm": 14,
+    "available_from": "2026-01-20"
+  },
+  {
+    "type": "House",
+    "title": "Beach House in Eko Atlantic",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 22000000,
+    "currency": "NGN",
+    "description": "6-bedroom contemporary beach house with floor-to-ceiling windows and ocean views. Features private beach access, infinity pool, and smart home system. 24-hour security patrols.",
+    "location": "Eko Atlantic City, Lagos, Lagos State",
+    "features": [
+      "Beach Access",
+      "Ocean View",
+      "Infinity Pool",
+      "Smart Home",
+      "24hr Security"
+    ],
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "area_sqm": 450,
+    "available_from": "2026-08-01"
+  },
+  {
+    "type": "Bungalow",
+    "title": "Garden Bungalow in Abuja",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 3100000,
+    "currency": "NGN",
+    "description": "4-bedroom bungalow surrounded by tropical gardens. Features koi pond, meditation pavilion, and organic vegetable patch. Solar power with battery storage system.",
+    "location": "Maitama District, Abuja, FCT",
+    "features": [
+      "Tropical Gardens",
+      "Koi Pond",
+      "Meditation Pavilion",
+      "Solar Power"
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 220,
+    "available_from": "2026-04-01"
+  },
+  {
+    "type": "Apartment",
+    "title": "Serviced Apartment in Transcorp Hilton",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 6500000,
+    "currency": "NGN",
+    "description": "3-bedroom serviced apartment within Transcorp Hilton complex. Full access to hotel amenities including pools, restaurants, and conference facilities. Daily housekeeping included.",
+    "location": "Aguiyi Ironsi Street, Maitama, Abuja, FCT",
+    "features": [
+      "Hotel Amenities",
+      "Daily Housekeeping",
+      "Pool Access",
+      "Restaurant Access"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 180,
+    "available_from": "2026-01-10"
+  },
+  {
+    "type": "Studio Space",
+    "title": "Art Gallery Studio in Yaba",
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "price": 580000,
+    "currency": "NGN",
+    "description": "White-walled 70sqm art gallery space with professional lighting systems. Features climate control for artwork preservation. Located in creative hub near Lagos Mainland.",
+    "location": "Coker Street, Yaba, Lagos, Lagos State",
+    "features": [
+      "Professional Lighting",
+      "Climate Control",
+      "White Walls",
+      "Gallery Ready"
+    ],
+    "area_sqm": 70,
+    "available_from": "2026-02-10"
+  }
+]

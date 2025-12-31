@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Model files and embeddings cache
+*.onnx
+models/*.onnx
+.cache/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Temporary files
+update_images.py
